@@ -1,0 +1,14 @@
+.pagination {
+  display: flex;
+  flex-direction: row;
+  align-self: center;
+  justify-content: center;
+}
+.color {
+  color: white;
+}
+.pageNumber {
+  color: yellow;
+  margin-left: 10px;
+  margin-right: 10px;
+}
